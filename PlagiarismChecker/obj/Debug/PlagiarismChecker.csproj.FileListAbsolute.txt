@@ -1,0 +1,9 @@
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\bin\Debug\PlagiarismChecker.exe.config
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\bin\Debug\PlagiarismChecker.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\bin\Debug\PlagiarismChecker.pdb
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\obj\Debug\PlagiarismChecker.csprojResolveAssemblyReference.cache
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\obj\Debug\PlagiarismChecker.MainForm.resources
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\obj\Debug\PlagiarismChecker.csproj.GenerateResource.Cache
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\obj\Debug\PlagiarismChecker.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\obj\Debug\PlagiarismChecker.pdb
+D:\EricGoh\OneDrive - SVBook\MyProjects\PlagiarismChecker\PlagiarismChecker\obj\Debug\PlagiarismChecker.AbtForm.resources
